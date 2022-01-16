@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://AdrianGeorgeM.github.io/Project-Convert-a-jQuery-Library-to-React",
   "dependencies": {
+    "@christinebogdan/modal-plugin-react": "^0.1.13",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
